@@ -38,7 +38,6 @@ class Calculate
         $this->num3 = $num3;
     }
 
-
     public function add($num1, $num2 = 0, $num3 = 0)
     {
         if ($num1 === "") {
